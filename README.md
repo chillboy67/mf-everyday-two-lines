@@ -7,7 +7,9 @@
 A toaster is a tiny sunbed for bread: it lies there getting warm and brown until it pops up, done.
 The analogy works because both use heat to change colour, but it hides that the bread never chooses when to stop — the timer does.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the two lines above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -15,6 +17,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-suga-everyday-things-two-lines-longer-run-f8734479 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479).</sub>
